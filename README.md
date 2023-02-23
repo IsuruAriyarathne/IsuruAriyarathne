@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Framework**
 
-- 📝 I regularly write articles on [https://medium.com/@isuruariyarathne97](https://medium.com/@isuruariyarathne97)
+<!-- - 📝 I regularly write articles on [https://medium.com/@isuruariyarathne97](https://medium.com/@isuruariyarathne97) -->
 
 - 📫 How to reach me **isuru.18@cse.mrt.ac.lk**
 
