@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Isuru Ariyarathne</h1>
 <h3 align="center">Highly motivated and a hard working individual who has a passion for computer science and who loves to try out different technologies.</h3>
 
-- 🔭 I’m currently working on **Greenbay**
+- 🔭 I'm a data science PhD student at the College of William and Mary, specializing in advanced research and data analysis.
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **Social Sciences**
 
 <!-- - 📝 I regularly write articles on [https://medium.com/@isuruariyarathne97](https://medium.com/@isuruariyarathne97) -->
 
